@@ -1,0 +1,28 @@
+apparel	Walking Shoes	32.95
+electronics	Sony PS 5	499.95
+apparel	Jeans	49.95
+jewelry	Necklace	89.99
+appliances	Washing Machine	799.95
+electronics	70-inch TV	699.49
+apparel	Running Shoes	49.95
+apparel	Dress Shoes	89.99
+electronics	Xbox One X	449.95
+electronics	Nintendo Switch	199.95
+jewelry	Gold Ring	399.49
+apparel	Necktie	19.99
+apparel	Sun Dress	59.99
+apparel	Dress Shirt	69.99
+jewelry	Watch	119.99
+appliances	Dishwasher	549.99
+apparel	Leather Belt	24.99
+tools	Hammer	19.99
+electronics	Smart Watch	399.99
+electronics	Laser Printer	299.95
+shoes	Flip Flops	15.99
+tools	Cordless Drill	109.95
+apparel	Fedora	22.99
+tools	Screw Driver	9.99
+tools	Saw	23.99
+electronics	WiFi Router	129.99
+electronics	5G Smart Phone	799.99
+tools	Lawn Mower	399.95
